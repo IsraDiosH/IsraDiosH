@@ -46,8 +46,4 @@ Let's build something amazing together! 🚀
 
 
 
-## Spotify Playing 🎧
 
-
-
-[![Spotify](https://novatorem2-alpha.vercel.app/api/spotify)](https://open.spotify.com/user/4pldo56x1c1f28db6vqri9gle?si=b75901007a0e4b2e)
