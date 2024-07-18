@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]!
 
-<!--
-**IsraDiosH/IsraDiosH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 **Location:** Torreón, Coahuila, Mexico
 
-Here are some ideas to get you started:
+🎓 **Education:** 
+- Currently pursuing a degree in Software Development at Universidad Tecnológica de Torreón
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Interests:**
+- Web Development
+- Data Analysis
+- Automation with Selenium WebDriver
+
+📫 **How to reach me:**
+- Email: [Your Email]
+- LinkedIn: [Your LinkedIn Profile]
+
+🛠 **Languages and Tools:**
+- Python
+- JavaScript
+- HTML/CSS
+- Selenium WebDriver
+
+🚀 **Projects:**
+- [Project 1](link-to-your-project): Brief description of what it does.
+- [Project 2](link-to-your-project): Brief description of what it does.
+
+🌱 **Currently Learning:**
+- Advanced Python
+- Web Scraping with Selenium
+
+🏆 **Achievements:**
+- Any awards, certifications, or recognitions.
+
+📈 **GitHub Stats:**
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=IsraDiosH&show_icons=true&theme=radical)
+
